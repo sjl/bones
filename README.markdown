@@ -1,3 +1,3 @@
 Bones is now called [Temperance][].
 
-[Temperance]: http://bitbucket.org/sjl/temperance/
+[Temperance]: http://github.com/sjl/temperance/
